@@ -1,0 +1,26 @@
+#container {
+    background-color: rgb(225, 187, 178);
+    margin-top: 15rem;
+    margin-left: 25rem;
+    text-align: center;
+    font-family: "Microsoft PhagsPa", sans-serif;
+    border: 2px solid transparent;
+    border-radius: 200px;
+    box-shadow: 2px 2px 20px 50px rgb(225, 187, 178);
+    width: 50%;
+}
+
+h1 {
+    font-weight: bold;
+    color: #e35971;
+}
+
+h2 {
+    color: #fa8746;
+}
+
+#used {
+    color: #e63737;
+    font-weight: bolder;
+}
+
